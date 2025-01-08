@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** specializing in frontend-heavy development. I have 3+ years of experience in building interactive, responsive, and scalable web applications. My expertise lies in ReactJS, Redux, and backend development using NodeJS.
+I'm a passionate **Full Stack Developer** specializing in frontend-heavy development. I have over 3 years of experience in building interactive, responsive, and scalable web applications. My expertise lies in ReactJS, Redux, and backend development using NodeJS.
 
 - 💼 Currently working as a **Product Developer** at Edgeverve Systems Limited, focusing on Finacle Treasury web applications.
 - 🌱 Actively learning advanced design patterns and backend optimization techniques.
@@ -13,7 +13,7 @@ I'm a passionate **Full Stack Developer** specializing in frontend-heavy develop
 ## 🛠️ Tech Stack
 
 **Frontend:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend:**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -22,14 +22,14 @@ I'm a passionate **Full Stack Developer** specializing in frontend-heavy develop
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Other Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-2C8EBB?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
 
 ### [Expense Tracker (Full Stack)](https://github.com/sauravkumar405/expense-tracker)
-A full-stack application to manage expenses, visualize data with Chart.js, and secure user authentication.
+A full-stack application to manage expenses, visualize data with Chart.js, and secure user authentication. Built using React.js, Node.js, and MongoDB.
 
 ### [React ToDo Application](https://github.com/sauravkumar405/react-todo-app)
 A simple and efficient ToDo app built with ReactJS and localStorage support.
