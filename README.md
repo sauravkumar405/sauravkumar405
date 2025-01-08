@@ -51,6 +51,6 @@ A reusable component library for scalable applications.
 
 - [LinkedIn](https://www.linkedin.com/in/saurabhkumar-xo/)
 - [GitHub](https://github.com/sauravkumar405)
-- 📧 Email: **saurabh.kumar@example.com**
+- 📧 Email: **sauravkumar405@gmail.com**
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=sauravkumar405)
